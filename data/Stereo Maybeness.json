@@ -7,11 +7,12 @@
     "verification": "https://youtu.be/0dZhbYqmdb0?si=L_heGt4_tXrM0iQX",
     "percentToQualify": 100,
     "password": "Free to copy",
-    "records": [
-    {
+    "records": [ 
+        {
             "user": "DeluxeGMD",
-            "link": "https://www.youtube.com/watch?v=YKY3IZeeeyI",
+            "link": "https://youtu.be/ufsHH_sf0-8?si=expSOnEb0mElKDbC",
             "percent": 100,
-            "hz": 90 }
-        ]
+            "hz": 90
+        }
+]
 }
