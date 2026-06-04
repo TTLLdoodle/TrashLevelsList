@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks with the fails cut. (however, FPS bypass is allowed, up to 960fps)
+                        Achieved the record without using hacks. (however, FPS bypass is allowed, up to 960fps)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
@@ -109,7 +109,7 @@ export default {
                         Have either source audio or clicks in the video (not necessary for mobile). Edited audio only does not count
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        The recording must have the fails cut, a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
                     </p>
                     <p>
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
