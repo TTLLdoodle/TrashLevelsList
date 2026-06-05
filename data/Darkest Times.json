@@ -8,5 +8,23 @@
     "percentToQualify": 100,
     "password": "Free to copy",
     "records": [
+        {
+            "user": "DeluxeGMD",
+            "link": "https://youtu.be/ovkFKS7Vr0g",
+            "percent": 100,
+            "hz": 90
+        },
+        {
+            "user": "Dogeball",
+            "link": "https://youtu.be/UgxSR5sJx7I?t=82",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Nitrogen",
+            "link": "https://youtu.be/E4_vQX56NyE",
+            "percent": 100,
+            "hz": 60
+
      ]
 }
