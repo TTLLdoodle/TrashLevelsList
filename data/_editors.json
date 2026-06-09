@@ -1,27 +1,26 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
+        "name": "doodledolphin1",
         "link": "https://www.youtube.com/@doodledolphin1"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@doodledolphin1"
+        "name": "Dogeball",
+        "link": "https://www.youtube.com/@certidoge"
     },
     {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@doodledolphin1"
+        "role": "admin",
+        "name": "DKing",
+        "link": "https://www.youtube.com/@del12kguide"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@doodledolphin1"
+        "role": "admin",
+        "name": "MysteriousMercenary/CubePanion",
+        "link": "https://www.youtube.com/@CubePanion"
     },
     {
-        "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    }
+        "role": "admin",
+        "name": "Scopop",
+        "link": "https://www.youtube.com/@CubePanion"
 ]
