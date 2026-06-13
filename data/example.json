@@ -1,0 +1,18 @@
+{
+    "id": 6767676767,
+    "name": "ppland",
+    "author": "me",
+    "creators": ["me"],
+    "verifier": "me",
+    "verification": "https://youtu.be/UfkC06HnOqk",
+    "percentToQualify": 67,
+    "password": "Free to copy",
+    "records": [
+      {
+            "user": "dookiedolphin",
+            "link": "https://youtu.be/UfkC06HnOqk",
+            "percent": 69,
+            "hz": 240
+        }
+     ]
+}
