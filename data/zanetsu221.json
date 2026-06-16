@@ -8,5 +8,10 @@
     "percentToQualify": 100,
     "password": "Free to copy",
     "records": [
-     ]
+        {
+            "user": "DeluxeGMD",
+            "link": "https://youtu.be/A-j6G85GzVk?si=jNyqNVeiWH-JVwYz",
+            "percent": 100,
+            "hz": 90
+        }]
 }
