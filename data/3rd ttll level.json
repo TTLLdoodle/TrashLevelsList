@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/G_7Zme0wXz0?si=62FXPEeY0EAzKK2G",
     "percentToQualify": 47,
     "password": "Free to copy",
-    "records": [
+    "records": [ 
+        {
+            "user": "xxblx1",
+            "link": "https://youtu.be/PbNuMOOCfLA?is=n69zV2lwH4K53rkC",
+            "percent": 100,
+            "hz": 240
+        },
      ]
 }
