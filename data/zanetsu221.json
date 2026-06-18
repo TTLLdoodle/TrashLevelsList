@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/3OrYq4PVO2I?is=J-6Epi9S0ah3V4-X",
     "percentToQualify": 100,
     "password": "Free to copy",
-    "records": []
+    "records": [
+        {
+            "user": "Dash Dude",
+            "link": "https://www.youtube.com/watch?v=Heu1XRhUvT8",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
 }
