@@ -8,5 +8,12 @@
     "percentToQualify": 60,
     "password": "Free to copy",
     "records": [
+        {
+            "user": "xxblx1",
+            "link": "https://youtu.be/Exsj63PzSE0?is=57CriDixzWAEPD9Q",
+            "percent": 100,
+            "hz": 240
+        }
+
      ]
 }
