@@ -49,7 +49,14 @@
             "link": "https://youtu.be/Jw3dpuZe5ag?si=Yr0CZfwGoAUpdNMw",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "KorybGD",
+            "link": "https://www.youtube.com/watch?v=pVi_1lEBl8M",
+            "percent": 100,
+            "hz": 120
         }
+
 
     ]
 }
