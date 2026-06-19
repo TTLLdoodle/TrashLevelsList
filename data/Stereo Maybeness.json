@@ -43,6 +43,13 @@
             "link": "https://www.youtube.com/watch?v=Jib1Kd0jNFI",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "FS",
+            "link": "https://www.youtube.com/shorts/IEvtr3GzmqE",
+            "percent": 100,
+            "hz": 260
         }
+
 ]
 }
