@@ -19,7 +19,14 @@
             "link": "https://youtube.com/shorts/4BMSkFTbads",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "Doodle",
+            "link": "https://youtu.be/eVHd1In1y-s",
+            "percent": 100,
+            "hz": 60
         }
+
 
 
      ]
