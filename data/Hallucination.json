@@ -8,5 +8,12 @@
     "percentToQualify": 66,
     "password": "Free to copy",
     "records": [
+        {
+            "user": "Doodle",
+            "link": "https://youtu.be/lFxMPQ85DQA?si=SbLfzf8GcZ5TrJGG",
+            "percent": 100,
+            "hz": 60
+        }
+        
      ]
 }
