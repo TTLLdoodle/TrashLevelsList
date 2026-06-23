@@ -8,5 +8,12 @@
     "percentToQualify": 100,
     "password": "Free to copy",
     "records": [
+        {
+            "user": "Zenyrlover",
+            "link": "https://youtu.be/tnaDR6tAiBU?si=aevxzbh2oNhi7lP5",
+            "percent": 100,
+            "hz": 480
+        }
+
      ]
 }
