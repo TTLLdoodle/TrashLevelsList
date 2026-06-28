@@ -8,5 +8,11 @@
     "percentToQualify": 50,
     "password": "Free to copy",
     "records": [
+        {
+            "user": "Shmudduhh",
+            "link": "https://medal.tv/games/geometry-dash/clips/n0eynA9GjixOspHVb?invite=cr-MSw1RGUsODM2Nzc3OTg&v=68",
+            "percent": 100,
+            "hz": 240
+        }
      ]
 }
