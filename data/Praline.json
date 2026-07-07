@@ -26,13 +26,16 @@
             "percent": 100,
             "hz": 240
         },
-        {
+        {   
             "user": "QuaotiK",
             "link": "https://youtu.be/bTy3t4e-LtA",
             "percent": 100,
             "hz": 240
+        },  
+        {   "user": "Volcanor", 
+            "link": "https://www.youtube.com/watch?v=ejmaGSdgldc", 
+            "percent": 100,
+            "hz": 180
         }
-
-
      ]
 }
