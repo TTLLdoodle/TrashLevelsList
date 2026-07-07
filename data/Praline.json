@@ -32,7 +32,8 @@
             "percent": 100,
             "hz": 240
         },  
-        {   "user": "Volcanor", 
+        {   
+            "user": "Volcanor", 
             "link": "https://www.youtube.com/watch?v=ejmaGSdgldc", 
             "percent": 100,
             "hz": 180
