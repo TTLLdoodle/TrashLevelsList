@@ -37,6 +37,12 @@
             "link": "https://youtu.be/VrkrTrmuhds?si=7XseZHLQKIZZZu2C", 
             "percent": 100,
             "hz": 60
+        },
+        {   
+            "user": "Volcanor", 
+            "link": "https://www.youtube.com/watch?v=_sJ30eBjorg", 
+            "percent": 100,
+            "hz": 180
         }
      ]
 }
