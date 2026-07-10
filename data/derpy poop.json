@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=_sJ30eBjorg",
             "percent": 100,
             "hz": 180
+        },
+        {
+            "user": "Doodle",
+            "link": "https://youtu.be/vByYMJxpMVc",
+            "percent": 100,
+            "hz": 60
         }
      ]
 }
